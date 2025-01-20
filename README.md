@@ -1,4 +1,4 @@
-# MTH309_F2019
+# MTH309
 These are materials for the Spring 2025 course MTH 309 Introduction to Linear Algebra taught at the University at Buffalo.
 The directory `notebooks_2025` contained version of Jupyter notebooks and associated Python files updated in 2025.
 
